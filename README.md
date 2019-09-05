@@ -31,13 +31,13 @@ Bring your devices
 
 We provide infrastructure on AWS
 
-Pick a challenge from the problem statement pool
+Work with your team and pick a challenge
 
 Be awesome and solve something!
 
-Present your work on DAY 4 to 10,000 Sibos attendees 
+Present your work on DAY 4 to thoundsands of Sibos attendees 
 
-Reap the rewards include Sibos TV interview, media coverage and more!
+Reap the rewards including Sibos TV interview, media coverage and more!
 
 ## Schedule
 
