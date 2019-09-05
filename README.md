@@ -1,4 +1,4 @@
-# dev_park Programme
+# dev_park
 
 ## Welcome!
 
@@ -24,3 +24,37 @@ Free breakfast & lunch everyday and happy hour @ 16:30! You won't leave Sibos wi
 
 Look for an email from "Sibos Registration" <registration@sibos.com>.
 You will find registration information along with invitation letter for visa and other information about Sibos. 
+
+##  Rules
+
+Bring your devices
+
+We provide infrastructure on AWS
+
+Pick a challenge from the problem statement pool
+
+Be awesome and solve something!
+
+Present your work on DAY 4 to 10,000 Sibos attendees 
+
+Reap the rewards
+
+## Schedule
+
+Day 1 (Sep 23):
+* Welcome @ 9:30
+* Hack, Hack, Hack
+* Innotribe stage update @ 16:30
+
+Day 2 (Sep 24):
+* Hack, Hack, Hack
+* Innotribe stage update @ 16:30
+
+Day 3 (Sep 25):
+* Hack, Hack, Hack
+* Innotribe stage update @ 16:30
+* Innotribe networking event at Giant Robot, Canary Wharf
+
+Day 4 (Sep 26):
+* Hack until 11:30
+* Innotribe stage final demo @ 12:00
