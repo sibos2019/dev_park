@@ -16,10 +16,6 @@ Sibos 2019 at [Excel London](https://www.excel.london/)
 Developer Park
 September 23 ~ 26
 
-## Food, Swag and Happy Hours
-
-Free breakfast & lunch everyday including social events and you won't leave Sibos without some cool swag ;)
-
 ## Registration
 
 Look for an email from "Sibos Registration" <registration@sibos.com>.
@@ -42,7 +38,8 @@ Reap the rewards including Sibos TV interview, media coverage and more!
 ## Schedule
 
 Day 1 (Sep 23):
-* Welcome @ 9:30
+* Welcome @ 9:00
+* Getting started with APIs from OBIE, Tink and SWIFT!
 * Hack, Hack, Hack
 * Innotribe stage update @ 16:30
 
