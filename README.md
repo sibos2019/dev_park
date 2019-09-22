@@ -38,6 +38,8 @@ Reap the rewards including Sibos TV interview, media coverage and more!
 ## AWS access
 
 * When you create anything, it needs to be prefixed with "SibosColor" where the Color is your team color.
+* When you create role, you have to select the appropriate permission boundary (matching team color).
+* When y
 
 ## Schedule
 
