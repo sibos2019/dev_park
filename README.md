@@ -39,7 +39,7 @@ Reap the rewards including Sibos TV interview, media coverage and more!
 
 Day 1 (Sep 23):
 * Welcome @ 9:00
-* Getting started with APIs from OBIE, Tink and SWIFT!
+* Getting started with APIs from SWIFT, Tink and OBIE!
 * Hack, Hack, Hack
 * Innotribe stage update @ 16:30
 
