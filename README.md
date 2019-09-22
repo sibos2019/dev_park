@@ -8,7 +8,7 @@ This hackathon may be different and unique in that it's not about promoting serv
 
 ## Hacking
 
-We provide the open, collaborative software developement enviornemnt including infrastructure, communication and support to help you hack. You are enabled with AWS cloud to deploy your apps, Github to collaborate & publish your source code and Slack for support prior and during the hackathon. So bring your own devices, meet with your team, pick a challenge that you all believe in and hack away!
+We provide the open, collaborative software developement environment including infrastructure, communication and support to help you hack. You are enabled with AWS cloud to deploy your apps, Github to collaborate & publish your source code and Slack for support prior and during the hackathon. So bring your own devices, meet with your team, pick a challenge that you all believe in and hack away!
 
 ## Venue & Date
 
