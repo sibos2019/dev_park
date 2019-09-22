@@ -1,35 +1,15 @@
 # dev_park
 
-## Welcome!
+## Themes
 
-Welcome and thank you for your interests in participating the first ever hackathon at Sibos! We are expecting around 20 to 30 developers and we are looking forward to have you in London with us to hack out real problems that's been bugging our community. We cannot wait to see your solutions which will be presented to over 10,000 attendeees at Sibos. 
-
-This hackathon may be different and unique in that it's not about promoting service from a particular company, instead it's about cross industry collaboration and solving problems that matter. We will be cultivated a problem statement pool during Sibos. If you agree with us in achieving this goal, you are at the right place! Let's do something really awesome for the betterment of the entire community.
-
-## Hacking
-
-We provide the open, collaborative software developement environment including infrastructure, communication and support to help you hack. You are enabled with AWS cloud to deploy your apps, Github to collaborate & publish your source code and Slack for support prior and during the hackathon. So bring your own devices, meet with your team, pick a challenge that you all believe in and hack away!
-
-## Venue & Date
-
-Sibos 2019 at [Excel London](https://www.excel.london/) 
-Developer Park
-September 23 ~ 26
-
-## Registration
-
-Look for an email from "Sibos Registration" <registration@sibos.com>.
-You will find registration information along with invitation letter for visa and other information about Sibos. 
+1. API Mash up challenge
+2. Solve API around Security and Identity
 
 ##  Rules
 
-Bring your devices
-
-We provide infrastructure on AWS
+Bring your devices, we provide infrastructure on AWS
 
 Work with your team and pick a challenge
-
-Be awesome and solve something!
 
 Present your work on DAY 4 to thoundsands of Sibos attendees 
 
@@ -39,7 +19,6 @@ Reap the rewards including Sibos TV interview, media coverage and more!
 
 * When you create anything, it needs to be prefixed with "SibosColor" where the Color is your team color.
 * When you create role, you have to select the appropriate permission boundary (matching team color).
-* When y
 
 ## Schedule
 
