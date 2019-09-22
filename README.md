@@ -35,6 +35,10 @@ Present your work on DAY 4 to thoundsands of Sibos attendees
 
 Reap the rewards including Sibos TV interview, media coverage and more!
 
+## AWS access
+
+* When you create anything, it needs to be prefixed with "SibosColor" where the Color is your team color.
+
 ## Schedule
 
 Day 1 (Sep 23):
