@@ -1,9 +1,9 @@
-# dev_park
+# dev_park: Hackathon
 
-## Themes
+## Themes: Open Banking needs Open Minds
 
-1. API Mash up challenge
-2. Solve API around Security and Identity
+1. Use APIs to create an original payment mashup application
+2. Solve an API related problem in Financial Services for example in security and identity
 
 ##  Rules
 
